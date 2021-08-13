@@ -1,0 +1,6 @@
+2021-08-10 11:50:00.7652|DEBUG|NLogExample.NLog|Debug SuccessFull : Sum()
+2021-08-10 11:50:00.7792|INFO|NLogExample.NLog|Sum Method Passed, Result : 5
+2021-08-14 02:45:37.2652|DEBUG|NLogExample.NLog|Debug SuccessFull : Sum()
+2021-08-14 02:45:37.2739|INFO|NLogExample.NLog|Sum Method Passed, Result : 11
+2021-08-14 02:46:46.7956|DEBUG|NLogExample.NLog|Debug SuccessFull : Sum()
+2021-08-14 02:46:46.8025|INFO|NLogExample.NLog|Sum Method Passed, Result : 50
